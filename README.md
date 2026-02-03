@@ -91,7 +91,7 @@ This repository is a 21-day learning journey designed for complete beginners to 
 ## Requirements
 
 - [Rust](https://rustup.rs/) (installation via rustup is recommended)
-- A code editor (VS Code + rust-analyzer recommended)
+- A code editor (VS Code + rust-analyzer or Zed IDE)
 - Basic terminal/command line knowledge
 
 ### Rust Installation
