@@ -39,7 +39,7 @@ This repository is a 21-day learning journey designed for complete beginners to 
    cargo run
    ```
 
-4. Complete the homework exercises in per-day README.md files (main.rs TODOs have been removed where applicable).
+4. Complete the homework exercises in per-day README.md files.
 
 ## Curriculum
 
@@ -83,7 +83,7 @@ This repository is a 21-day learning journey designed for complete beginners to 
 
 ## Notes and Updates
 
-- Homework is documented in the per-day README.md files. Inline TODOs in main.rs have been removed where applicable.
+- Homework is documented in the per-day README.md files.
 - Day 20: Macros content has been cleaned up and is described in day-20/README.md.
 - Day 21: Final Project tasks and guidance are in day-21/README.md.
 - Automation: A script at `scripts/check_homework_sync.sh` verifies that each day README contains a Homework section. Run:
@@ -137,7 +137,7 @@ cargo --version
 Each day folder contains:
 - `Cargo.toml` - Project configuration
 - `README.md` - Theory, explanations, and homework
-- `src/main.rs` - Code examples with TODO exercises
+- `src/main.rs` - Code examples
 
 ## Weekly Projects
 
@@ -151,7 +151,7 @@ Each day folder contains:
 
 1. **Code every day** - Consistency is key
 2. **Type the code** - Don't just read, write it yourself
-3. **Complete the homework** - TODOs in each main.rs
+3. **Complete the homework** - TODOs in each README.md files
 4. **Read compiler errors** - Rust's error messages are helpful
 5. **Ask questions** - Join the Rust community
 
