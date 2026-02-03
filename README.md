@@ -86,9 +86,6 @@ This repository is a 21-day learning journey designed for complete beginners to 
 - Homework is documented in the per-day README.md files.
 - Day 20: Macros content has been cleaned up and is described in day-20/README.md.
 - Day 21: Final Project tasks and guidance are in day-21/README.md.
-- Automation: A script at `scripts/check_homework_sync.sh` verifies that each day README contains a Homework section. Run:
-  - `chmod +x scripts/check_homework_sync.sh`
-  - `./scripts/check_homework_sync.sh`
 - You can run each day independently by following the per-day READMEs (e.g., cd day-00 && cargo run).
 
 ## Requirements
