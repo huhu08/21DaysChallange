@@ -112,7 +112,10 @@ fn factorial(n: u64) -> u64 {
         n * factorial(n - 1)
     }
 }
-
+fn rectangle_area(width: f64, height: f64) -> f64{
+   let mut area= width*height;
+    print!ln("area");
+}
 fn fibonacci(n: u32) -> u32 {
     if n <= 1 {
         n
